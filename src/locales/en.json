@@ -1,0 +1,5 @@
+{
+    "nav":   { "home": "Home", "about": "About", "projects": "Projects", "donate": "Donate", "contact": "Contact" },
+    "hero":  { "title": "Empowering Youth Worldwide", "tagline": "Connecting ideas, projects and supporters.", "noVideo": "Your browser does not support the video tag." },
+    "cta":   { "donate": "Donate Now", "projects": "Our Projects", "join": "Get Involved" }
+  }
