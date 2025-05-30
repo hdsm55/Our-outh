@@ -2,9 +2,9 @@ import React from 'react';
 import { useLanguage } from '../../contexts/LanguageContext';
 
 const items = [
-  { key: 'values.empower', img: '/images/values/empower.svg' },
-  { key: 'values.innovate', img: '/images/values/innovate.svg' },
-  { key: 'values.collaborate', img: '/images/values/collaborate.svg' },
+  { key: 'values.empower', img: '/images/values/empower.jpg' },
+  { key: 'values.innovate', img: '/images/values/innovate.jpg' },
+  { key: 'values.collaborate', img: '/images/values/collaborate.jpg' },
 ];
 
 export default function ValuesSection() {
