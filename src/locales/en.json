@@ -1,0 +1,45 @@
+{
+    "nav":   { "home": "Home", "about": "About", "projects": "Projects", "donate": "Donate", "contact": "Contact" },
+    "hero":  { "title": "Empowering Youth Worldwide", "tagline": "Connecting ideas, projects and supporters.", "noVideo": "Your browser does not support the video tag." },
+    "cta":   { "donate": "Donate Now", "projects": "Our Projects", "join": "Get Involved" },
+    "about": {
+      "missionTitle": "Our Mission",
+      "missionBody": "Shababona empowers youth through education, innovation and civic engagement across the globe.",
+      "ourJourney": "Our Journey",
+      "meetTeam": "Meet the Team",
+      "timeline": {
+        "2015": "Foundation of Shababona in Istanbul.",
+        "2018": "First international youth summit with 40+ countries.",
+        "2022": "Digital expansion and launch of the Global Youth Platform."
+      },
+      "team": {
+        "ahmed": "Ahmed Hassan",
+        "sara": "Sara Al-Yousef",
+        "ali": "Ali Khan",
+        "role": {
+          "ceo": "Executive Director",
+          "ops": "Operations Lead",
+          "eng": "Engineering Lead"
+        }
+      }
+    },
+    "home": {
+      "ourValues": "Our Core Values"
+    },
+"values": {
+  "empower": {
+    "title": "Empowerment",
+    "body": "We enable youth to lead positive change in their communities."
+  },
+  "innovate": {
+    "title": "Innovation",
+    "body": "We foster creative solutions to global challenges."
+  },
+  "collaborate": {
+    "title": "Collaboration",
+    "body": "We build bridges between cultures and organizations."
+  }
+}
+
+  }
+
