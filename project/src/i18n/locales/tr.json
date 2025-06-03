@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "projects": "Projeler",
+    "events": "Etkinlikler",
+    "donate": "Bağış Yap",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Gençliği Küresel Olarak Güçlendirme",
+    "subtitle": "Kültürler arası köprüler kurma, liderliği teşvik etme ve olumlu değişim yaratma",
+    "cta": "Bize Katılın",
+    "scroll_down": "Daha fazlası için aşağı kaydırın"
+  },
+  "stats": {
+    "title": "Küresel Etkimiz",
+    "subtitle": "Gençleri güçlendirerek dünya çapında toplulukları etkileme",
+    "volunteers": {
+      "label": "Aktif Gönüllü",
+      "description": "Olumlu değişim yaratan gençler"
+    },
+    "projects": {
+      "label": "Aktif Proje",
+      "description": "Topluluklar arası girişimler"
+    },
+    "countries": {
+      "label": "Ülke",
+      "description": "Küresel varlık ve etki"
+    }
+  },
+  "values": {
+    "title": "Temel Değerlerimiz",
+    "subtitle": "Misyonumuza yön veren ilkeler",
+    "leadership": {
+      "title": "Liderlik Gelişimi",
+      "description": "Mentorluk ve pratik deneyim yoluyla geleceğin liderlerini yetiştirme"
+    },
+    "diversity": {
+      "title": "Kültürel Çeşitlilik",
+      "description": "Farklılıkları kutlama ve kapsayıcı küresel toplulukları teşvik etme"
+    },
+    "impact": {
+      "title": "Sürdürülebilir Etki",
+      "description": "Gençlik öncülüğündeki girişimlerle kalıcı değişim yaratma"
+    }
+  },
+  "why_us": {
+    "title": "Neden Biz",
+    "subtitle": "Gençleri güçlendirmede bizi farklı kılan",
+    "experience": {
+      "title": "Kanıtlanmış Deneyim",
+      "description": "5 yılı aşkın başarılı gençlik programları"
+    },
+    "programs": {
+      "title": "Çeşitli Programlar",
+      "description": "Farklı ilgi alanlarına göre özelleştirilmiş girişimler"
+    },
+    "community": {
+      "title": "Küresel Topluluk",
+      "description": "Genç liderlerin bağlantılı ağı"
+    },
+    "impact": {
+      "title": "Ölçülebilir Etki",
+      "description": "Veri odaklı değişim yaklaşımı"
+    }
+  },
+  "testimonials": {
+    "title": "Gençlerin Sesi",
+    "subtitle": "Topluluk üyelerimizden dinleyin"
+  },
+  "projects": {
+    "featured_title": "Öne Çıkan Projeler",
+    "featured_subtitle": "Dünya çapındaki etkili girişimlerimizi keşfedin",
+    "view_all": "Tüm Projeleri Görüntüle",
+    "view_details": "Detayları Görüntüle",
+    "learn_more": "Daha Fazla Bilgi",
+    "categories": {
+      "all": "Tüm Kategoriler",
+      "education": "Eğitim",
+      "health": "Sağlık",
+      "environment": "Çevre"
+    },
+    "statuses": {
+      "all": "Tüm Durumlar",
+      "active": "Aktif",
+      "completed": "Tamamlandı"
+    },
+    "no_results": "Arama kriterlerinize uygun proje bulunamadı",
+    "reset_search": "Aramayı Sıfırla",
+    "search_placeholder": "Projelerde ara..."
+  },
+  "cta": {
+    "join": "Katılın",
+    "learn_more": "Daha Fazla Bilgi",
+    "get_started": "Hemen Başlayın"
+  },
+  "partners": {
+    "title": "Ortaklarımız",
+    "subtitle": "Değişim yaratmak için birlikte çalıştığımız kuruluşlar"
+  },
+  "final_cta": {
+    "title": "Fark Yaratmaya Hazır mısınız?",
+    "subtitle": "Genç liderler ve değişim yaratıcılarının küresel topluluğuna katılın",
+    "button": "Bugün Başlayın"
+  },
+  "footer": {
+    "about_us": "Hakkımızda",
+    "mission": "Misyonumuz",
+    "team": "Ekibimiz",
+    "impact": "Etkimiz",
+    "partners": "Ortaklarımız",
+    "get_involved": "Katılın",
+    "volunteer": "Gönüllü Olun",
+    "donate": "Bağış Yapın",
+    "events": "Etkinlikler",
+    "projects": "Projeler",
+    "resources": "Kaynaklar",
+    "blog": "Blog",
+    "press": "Basın",
+    "reports": "Yıllık Raporlar",
+    "faq": "SSS",
+    "newsletter": "Bülten",
+    "newsletter_desc": "En son haberlerimiz ve etkinliklerimizden haberdar olun",
+    "email_placeholder": "E-posta adresinizi girin",
+    "subscribe": "Abone Ol",
+    "copyright_full": "Global Gençlik Organizasyonu. Tüm hakları saklıdır. © {{year}}",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "language": "Dil",
+    "tagline": "Dünya çapında topluluklarda olumlu değişim yaratmak için gençleri güçlendirme.",
+    "logo_alt": "Global Gençlik Organizasyonu"
+  }
+}

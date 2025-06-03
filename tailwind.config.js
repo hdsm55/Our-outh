@@ -1,6 +1,10 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-    content: ['./index.html', './src/**/*.{js,jsx}'],
+export default {
+    content: [
+        './index.html',
+        './src/**/*.{js,ts,jsx,tsx}',
+        './node_modules/daisyui/dist/**/*.js',
+    ],
     darkMode: 'class',
     theme: {
         extend: {
@@ -15,5 +19,5 @@ module.exports = {
             sm: '640px', md: '768px', lg: '1024px', xl: '1280px',
         },
     },
-    plugins: [],
+    plugins: [require('daisyui')],
 };

@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "events": "Events",
+    "donate": "Donate",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Empowering Youth Globally",
+    "subtitle": "Building bridges across cultures, fostering leadership, and creating positive change",
+    "cta": "Join Us Today",
+    "scroll_down": "Scroll down to learn more"
+  },
+  "stats": {
+    "title": "Our Global Impact",
+    "subtitle": "Making a difference in communities worldwide through youth empowerment",
+    "volunteers": {
+      "label": "Active Volunteers",
+      "description": "Dedicated youth making positive change"
+    },
+    "projects": {
+      "label": "Active Projects",
+      "description": "Initiatives across communities"
+    },
+    "countries": {
+      "label": "Countries",
+      "description": "Global presence and impact"
+    }
+  },
+  "values": {
+    "title": "Our Core Values",
+    "subtitle": "The principles that guide our mission",
+    "leadership": {
+      "title": "Leadership Development",
+      "description": "Nurturing tomorrow's leaders through mentorship and hands-on experience"
+    },
+    "diversity": {
+      "title": "Cultural Diversity",
+      "description": "Celebrating differences and fostering inclusive global communities"
+    },
+    "impact": {
+      "title": "Sustainable Impact",
+      "description": "Creating lasting change through youth-led initiatives"
+    }
+  },
+  "why_us": {
+    "title": "Why Choose Us",
+    "subtitle": "What sets us apart in youth empowerment",
+    "experience": {
+      "title": "Proven Experience",
+      "description": "Over 5 years of successful youth programs"
+    },
+    "programs": {
+      "title": "Diverse Programs",
+      "description": "Initiatives tailored for various interests"
+    },
+    "community": {
+      "title": "Global Community",
+      "description": "Connected network of youth leaders"
+    },
+    "impact": {
+      "title": "Measurable Impact",
+      "description": "Data-driven approach to change"
+    }
+  },
+  "testimonials": {
+    "title": "Youth Voices",
+    "subtitle": "Hear from our community members"
+  },
+  "projects": {
+    "featured_title": "Featured Projects",
+    "featured_subtitle": "Discover our impactful initiatives around the world",
+    "view_all": "View All Projects",
+    "view_details": "View Details",
+    "learn_more": "Learn More",
+    "categories": {
+      "all": "All Categories",
+      "education": "Education",
+      "health": "Health",
+      "environment": "Environment"
+    },
+    "statuses": {
+      "all": "All Statuses",
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "no_results": "No projects found matching your criteria",
+    "reset_search": "Reset Search",
+    "search_placeholder": "Search projects..."
+  },
+  "cta": {
+    "join": "Join Us",
+    "learn_more": "Learn More",
+    "get_started": "Get Started"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "Organizations we work with to create change"
+  },
+  "final_cta": {
+    "title": "Ready to Make a Difference?",
+    "subtitle": "Join our global community of youth leaders and change-makers",
+    "button": "Get Started Today"
+  },
+  "footer": {
+    "about_us": "About Us",
+    "mission": "Our Mission",
+    "team": "Our Team",
+    "impact": "Our Impact",
+    "partners": "Partners",
+    "get_involved": "Get Involved",
+    "volunteer": "Volunteer",
+    "donate": "Donate",
+    "events": "Events",
+    "projects": "Projects",
+    "resources": "Resources",
+    "blog": "Blog",
+    "press": "Press",
+    "reports": "Annual Reports",
+    "faq": "FAQ",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Stay updated with our latest news and events",
+    "email_placeholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "copyright_full": "Global Youth Organization. All rights reserved. © {{year}}",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "language": "Language",
+    "tagline": "Empowering youth to create positive change in communities worldwide.",
+    "logo_alt": "Global Youth Organization"
+  }
+}

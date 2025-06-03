@@ -21,7 +21,7 @@ export default function ValuesSection() {
           {items.map(({ key, img }) => (
             <div
               key={key}
-              className="flex flex-col items-center text-center p-8 rounded-2xl shadow-lg bg-white dark:bg-dark/70 hover:-translate-y-1 transition"
+              className="card bg-base-100 shadow-xl hover:-translate-y-1 transition"
             >
               <img
                 src={img}
